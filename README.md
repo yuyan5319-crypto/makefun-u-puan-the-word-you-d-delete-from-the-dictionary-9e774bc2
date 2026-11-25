@@ -10,13 +10,15 @@ deletion is.
 
 ## The word
 
-> pneumonoultramicroscopicsilicovolcanoconiosis
+> irregardless
 
-The longest word in a major English dictionary — 45 letters, coined in 1935
-purely to hold the record and never used by anyone in a real sentence.
-Delete it and the dictionary loses its most absurd entry: no more
-spelling-bee trump card, no more "longest word" trivia answer. The joke is
-the word itself — a word that exists only to be long.
+The dictionary's own typo that got promoted: a word built by stapling a
+redundant "ir-" onto "regardless", so it means exactly what "regardless"
+already means — yet it sits in the dictionary, daring grammar pedants to
+look it up. Delete it and nobody would notice, because the language
+already has the correct word standing right next to it. The joke is the
+word itself — a word whose entire existence is a mistake, erased at no
+cost.
 
 ## Run it
 
